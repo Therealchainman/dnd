@@ -8,6 +8,7 @@ The agent uses these Markdown files as persistent memory.
 | `canon.md` | Enduring facts confirmed by the player or at the table |
 | `build-decisions.md` | Character choices, alternatives, and reasoning |
 | `inventory.md` | Current equipment, coins, and acquisition history |
+| `sheet-audit.md` | Reconciliation notes for imported character sheets |
 | `party.md` | Party members, capabilities, relationships, and coordination |
 | `npcs.md` | Named non-player characters and what is actually known about them |
 | `quests.md` | Active, completed, failed, and rumored objectives |

@@ -10,15 +10,23 @@ Only confirmed facts belong in the active sections of this file.
 ## Character
 
 - The character's name is therealchainman.
+- D&D Beyond currently displays the default character name “therealchainman's
+  Character” and lists therealchainman as the player name.
 - The character is a dwarf.
 - The character is a level-1 Wizard.
 - The character has the Sage background.
 - The character's alignment is Lawful Evil.
+- The PDF lists the character as male, age 32, Medium, 5 feet 5 inches tall, and
+  170 pounds, with pale skin, hazel eyes, and brown hair.
 - The character speaks Common and chose Dwarvish and Halfling as the two
   additional starting languages.
 - The character is using 27-point buy.
-- The ability scores currently displayed by the character builder are Strength 8,
-  Dexterity 14, Constitution 15, Intelligence 15, Wisdom 10, and Charisma 8.
+- The PDF currently displays Strength 8, Dexterity 14, Constitution 17,
+  Intelligence 18, Wisdom 11, and Charisma 8.
+- The PDF lists proficiency in Arcana, History, Investigation, and Nature.
+- The PDF reports AC 12, maximum HP 10, initiative +2, spell save DC 14, spell
+  attack +6, passive Perception 10, passive Insight 10, and passive Investigation
+  16.
 - The character uses Intelligence for Magic Initiate (Wizard).
 - The character chose `Fire Bolt` and `Mind Sliver` as the two Magic Initiate
   cantrips.
@@ -29,6 +37,9 @@ Only confirmed facts belong in the active sections of this file.
   package.
 - The character currently has 55 GP; no purchases from that amount have been
   recorded.
+- The PDF inventory weighs 32 pounds and lists two daggers, a quarterstaff, a
+  backpack, a robe, ten flasks of oil, ten sheets of parchment, a tinderbox, a
+  book, a lamp, an ink pen, and ink.
 
 ## Player Priorities
 
@@ -38,4 +49,7 @@ Only confirmed facts belong in the active sections of this file.
 
 ## Superseded Facts
 
-None.
+- Before the PDF import, the character builder was reported as showing base
+  scores of STR 8, DEX 14, CON 15, INT 15, WIS 10, and CHA 8.
+- Insight was previously proposed as a Wizard skill; the PDF instead confirms
+  Nature alongside Investigation.

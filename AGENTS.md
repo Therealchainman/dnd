@@ -24,6 +24,9 @@ belongs.
 - The planned subclass is Abjurer. Treat any choice marked **proposed** or
   **working assumption** as editable, not as established fact.
 - The player's report of a DM ruling overrides published rules for this campaign.
+- `memory/sheet-audit.md` records the latest D&D Beyond PDF reconciliation. Treat
+  the PDF as authority for displayed mechanics, but explicit player choices and
+  DM rulings override builder defaults or apparent builder errors.
 - If a rule interaction is uncertain, label the uncertainty and recommend a DM
   check. Do not silently invent a ruling.
 

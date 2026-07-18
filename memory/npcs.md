@@ -2,7 +2,7 @@
 
 No NPCs have been established.
 
-| NPC | Description | Affiliation | Confirmed facts | therealchainman's view | Last seen |
+| NPC | Description | Affiliation | Confirmed facts | Character's view | Last seen |
 | --- | --- | --- | --- | --- | --- |
 | — | — | — | — | — | — |
 

@@ -3,19 +3,20 @@
 This is a straight-class Wizard plan. Multiclassing delays the spells that make a
 Wizard an outstanding teammate and is not recommended without a story reason.
 
-The level-4 and later ability values assume the proposed Sage increases of +2
-Intelligence and +1 Constitution are applied first. Recalculate this plan if the
-builder's current 15 INT and 15 CON already include the background increases.
+The PDF currently shows INT 18 and CON 17, but those totals appear to include both
+Sage improvement options. Resolve that character-creation issue before locking in
+later ability increases. The choices below remain useful under either total, but
+the exact scores must be recalculated after the correction or DM ruling.
 
 | Level | Choice | Why it helps |
 | ---: | --- | --- |
 | 1 | Wizard; Magic Initiate `Fire Bolt`, `Mind Sliver`, and `Shield` | Reliable offense, team setup, and a free emergency defense |
 | 2 | Scholar: Investigation Expertise | Makes exploration contribution reliable |
 | 3 | Abjurer | Adds a protective identity and team defense |
-| 4 | War Caster; INT 17 → 18 | Improves concentration, casting flexibility, DC, and attacks |
+| 4 | War Caster; increase INT if it is below 20 | Improves concentration and casting flexibility |
 | 5 | Third-level control and counters | Major power jump: `Counterspell` and `Hypnotic Pattern` |
-| 8 | Ability Score Improvement; INT 18 → 20 | Maximizes core spell accuracy and preparation |
-| 12 | Ability Score Improvement; CON 16 → 18 | More HP and stronger concentration checks |
+| 8 | Ability Score Improvement; reach INT 20, then improve CON | Maximizes core spell accuracy and durability |
+| 12 | Reassess after party and corrected scores are known | Avoids planning around the apparent Sage-builder error |
 
 ## Why Abjurer
 

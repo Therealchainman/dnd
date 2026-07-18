@@ -3,29 +3,27 @@
 therealchainman is most valuable when making everyone else's turn easier. This
 character is not a front-line tank despite having dwarf durability.
 
+The current PDF is incomplete: only `Fire Bolt`, `Mind Sliver`, and `Shield` from
+Magic Initiate are selected. The references below to other spells are future
+recommendations until the Wizard cantrips and spellbook are finalized.
+
 ## Before Danger
 
-- Cast `Mage Armor` using a spell slot when danger is likely within the next
-  several hours. Keep track of the cost; `Shield`, not `Mage Armor`, is the free
-  Magic Initiate casting.
-- Ritual-cast `Find Familiar` after it is lost and time is safe.
-- Let Footnote scout alongside the party's specialist, not far enough ahead to
-  split the table into a solo scene unless everyone wants that.
-- Use rituals, Investigation, Arcana, and Stonecunning to solve problems without
+- Use Investigation, Arcana, Nature, and Stonecunning to solve problems without
   spending spell slots.
+- After the proposed spells are selected, use rituals and familiar scouting only
+  when there is enough time and doing so does not replace another player's niche.
 
 ## Default Combat Logic at Level 1
 
 1. Start 30–60 feet behind the front line and use cover.
-2. If several grounded enemies can be caught without harming the party, cast
-   `Grease` where allies can exploit Prone targets.
-3. If an enemy is nearly defeated or must lose concentration, use
-   `Magic Missile`.
-4. Otherwise use `Mind Sliver` to set up an ally's saving-throw ability, `Ray of
-   Frost` to hinder an enemy that needs to reach the party, or `Fire Bolt` for
-   straightforward ranged damage.
-5. Keep the Reaction available for `Shield` or `Feather Fall` when either danger
-   is present.
+2. Use `Mind Sliver` when an ally is about to force an important saving throw.
+3. Otherwise use `Fire Bolt` for straightforward ranged damage.
+4. Keep the Reaction available for the free daily `Shield`; use it when the +5 AC
+   will turn a hit into a miss.
+
+Once the proposed spellbook is finalized, `Grease` becomes the control opening,
+`Magic Missile` the reliable finisher, and `Feather Fall` the emergency reaction.
 
 At levels 3+, the usual opening is a concentration control spell such as `Web` or
 `Hypnotic Pattern`, followed by cantrips, movement, and protection while allies

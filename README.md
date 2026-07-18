@@ -1,12 +1,15 @@
 # Dwarf Wizard Character Companion
 
-This repository contains a ready-to-play, team-focused dwarf Wizard and a
-Markdown memory system that can grow with the campaign.
+This repository contains a team-focused dwarf Wizard in character creation and a
+Markdown memory system that can grow with the campaign. The current PDF still
+needs its Wizard spell selections and a Sage ability-score correction or DM
+ruling before the character is ready to play.
 
-The character is **therealchainman**, a level-1 dwarf Wizard with the Sage
-background, built for the 2024 revised rules (5.5e) with expanded official
-options. The name, story details, starting level, and point-buy scores remain
-easy to change.
+The confirmed character name is **therealchainman**, a level-1 dwarf Wizard with
+the Sage background, built for the 2024 revised rules (5.5e) with expanded
+official options. D&D Beyond currently displays the default name
+“therealchainman's Character”; the Markdown files retain the player's explicitly
+confirmed name and flag the display mismatch.
 
 ## Quick Start
 

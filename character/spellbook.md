@@ -2,13 +2,18 @@
 
 ## Level-1 Loadout
 
+The 2026-07-18 PDF contains only the three confirmed Magic Initiate spells below.
+It does not yet contain the Wizard class's three cantrips, six starting spellbook
+spells, or four prepared Wizard spells. Everything labeled Proposed must still be
+selected in D&D Beyond.
+
 ### Cantrips
 
 Confirmed Magic Initiate cantrips:
 
 - `Fire Bolt` — efficient long-range damage when no setup or control is needed.
 - `Mind Sliver` — team setup; use before an ally's saving-throw effect or before
-  one of therealchainman's later control spells.
+  one of the character's later control spells.
 
 Proposed Wizard cantrips, chosen to avoid duplicating Magic Initiate:
 
@@ -21,7 +26,7 @@ Proposed Wizard cantrips, chosen to avoid duplicating Magic Initiate:
 - `Shield` — confirmed and always prepared. Cast it once per Long Rest without a
   slot, or with a spell slot after the free use is spent.
 
-### Proposed Starting Spellbook
+### Proposed Wizard Starting Spellbook — Not Yet in PDF
 
 - `Mage Armor`
 - `Grease`
@@ -30,21 +35,22 @@ Proposed Wizard cantrips, chosen to avoid duplicating Magic Initiate:
 - `Find Familiar` (ritual)
 - `Detect Magic` (concentration, ritual)
 
-### Default Prepared Spells
+### Proposed Prepared Spells — Not Yet in PDF
 
 - `Mage Armor` — AC 15 for the adventuring day, but it now costs a normal slot.
 - `Grease` — non-concentration area control that helps melee allies.
 - `Magic Missile` — dependable finishing damage or multiple concentration checks.
 - `Feather Fall` — a party-saving reaction that is difficult to replace in time.
 
-`Shield` is additionally always prepared through Magic Initiate and does not
-consume one of the Wizard's four prepared choices. Its free daily casting partly
-offsets the slot spent on `Mage Armor`. Cast `Find Familiar` and `Detect Magic` as
-rituals from the book when ten extra minutes are safe.
+`Shield` is always prepared through Magic Initiate and does not consume one of the
+Wizard's four prepared choices. If the proposed spellbook is selected, its free
+daily casting partly offsets the slot spent on `Mage Armor`; `Find Familiar` and
+`Detect Magic` can then be cast as rituals when ten extra minutes are safe.
 
 ## Familiar
 
-Proposed default: **Footnote**, an owl whose feathers look dusted with pale chalk.
+Proposed default after `Find Familiar` is selected: **Footnote**, an owl whose
+feathers look dusted with pale chalk.
 
 Use Footnote to scout, carry tiny objects, deliver personality moments, and Help
 an ally when the table enjoys familiar tactics. Do not let familiar scouting

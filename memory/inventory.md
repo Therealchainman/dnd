@@ -10,26 +10,32 @@ Last updated: 2026-07-18
 
 No spending has been recorded.
 
+The PDF reports 32 lb. carried, a 120 lb. carrying capacity, and 240 lb.
+push/drag/lift capacity.
+
 ## Carried Equipment
 
 | Item | Quantity | Source | Notes |
 | --- | ---: | --- | --- |
 | Dagger | 2 | Wizard package A | Simple melee or thrown weapon |
-| Arcane-focus quarterstaff | 1 | Wizard package A | Spellcasting focus and simple weapon |
+| Quarterstaff | 1 | Wizard package A | PDF does not label it as the arcane focus; verify in builder |
 | Robe | 1 | Wizard package A | Clothing; not armor |
-| Spellbook | 1 | Wizard package A | Contains the six starting spells once confirmed |
-| Scholar's Pack | 1 | Wizard package A | Contents listed below |
+| Backpack | 1 | Scholar's Pack | 5 lb. |
+| Book | 1 | Scholar's Pack | 5 lb. |
+| Ink | 1 | Scholar's Pack | — |
+| Ink pen | 1 | Scholar's Pack | — |
+| Lamp | 1 | Scholar's Pack | 1 lb. |
+| Oil | 10 flasks | Scholar's Pack | 10 lb. total |
+| Parchment | 10 sheets | Scholar's Pack | — |
+| Tinderbox | 1 | Scholar's Pack | 1 lb. |
 
-## Scholar's Pack Contents
+## Expected from Package but Missing in PDF
 
-- Backpack
-- Book
-- Ink
-- Ink pen
-- Lamp
-- Ten flasks of oil
-- Ten sheets of parchment
-- Tinderbox
+- Spellbook
+- Arcane-focus designation for the quarterstaff
+
+Wizard package A normally includes both. Do not treat their absence as an in-world
+loss; resolve it as a character-builder issue before play.
 
 ## Proficient but Not Owned
 
@@ -47,4 +53,3 @@ No spending has been recorded.
 None are final. Calligrapher's Supplies cost 10 GP and make direct use of the Sage
 tool proficiency, but keeping cash available for spell components and copying
 spells is also valuable.
-
